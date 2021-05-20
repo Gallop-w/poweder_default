@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
 # can i push you ?
+# can i pull you ?
 import os
 import cv2
 import numpy as np
